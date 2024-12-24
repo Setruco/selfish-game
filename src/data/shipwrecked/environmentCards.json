@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Calm Waters",
+    "effectId" : 0,
+    "description": "Nothing happens - there's nothing to \"sea\" here.",
+    "image": "",
+    "count": 10
+  },
+  {
+    "name": "The Kraken",
+    "effectId" : 1,
+    "description": "Sea beast ahead! The player must discard one Ration card.",
+    "image": "",
+    "count": 6
+  },
+  {
+    "name": "Ocean Debris",
+    "effectId" : 2,
+    "description": "The player draws one Game card and adds it to their hand.",
+    "image": "",
+    "count": 5
+  },
+  {
+    "name": "Shark Bait",
+    "effectId" : 3,
+    "description": "I guess it's every castaway for themselves. The player moves one of the sharks directly next to another player.",
+    "image": "",
+    "count": 4
+  },
+  {
+    "name": "Freeloader",
+    "effectId" : 4,
+    "description": "The player moves the player in the last place forward one space. If this is a tie, one tied player is selected to be moved. Then the player who drew this card draws a Game card.",
+    "image": "",
+    "count": 3
+  },
+  {
+    "name": "Vortex",
+    "effectId" : 5,
+    "description": "The player switches places with another player (excluding players in the raft).",
+    "image": "",
+    "count": 3
+  },
+  {
+    "name": "Hurricane",
+    "effectId" : 6,
+    "description": "Batten down the hatches! Every player discards one Game card and draws two more to replace it.",
+    "image": "",
+    "count": 3
+  },
+  {
+    "name": "Island Calling",
+    "effectId" : 7,
+    "description": "The player is lured towards the island by a mysterious sound and current, and moves backward one space, discarding the Ocean card of the space they move into.",
+    "image": "",
+    "count": 2
+  },
+  {
+    "name": "Davy Jones' Locker",
+    "effectId" : 8,
+    "description": "Yo ho ho! The players draws two Game cards.",
+    "image": "",
+    "count": 2
+  },
+  {
+    "name": "Raft Drifts",
+    "effectId" : 9,
+    "description": "Thank the oceans! The Raft card is moved one space closer to the players.",
+    "image": "",
+    "count": 1
+  },
+  {
+    "name": "Rip Current",
+    "effectId" : 10,
+    "description": "Go with the flow! The player who drew this card advances one space forward for free.",
+    "image": "",
+    "count": 1
+  },
+  {
+    "name": "Feeding Frenzy",
+    "effectId" : 11,
+    "description": "An extra shark is added on this card's space.",
+    "image": "",
+    "count": 1
+  }
+]

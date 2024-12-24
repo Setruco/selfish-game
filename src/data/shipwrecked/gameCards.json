@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Ration",
+    "effectId" : 0,
+    "description": "",
+    "image": "",
+    "count": 38
+  },
+  {
+    "name": "2 rations",
+    "effectId" : 1,
+    "description": "",
+    "image": "",
+    "count": 10
+  },
+  {
+    "name": "Pirate",
+    "effectId" : 1,
+    "description": "Shiver me timbers! The player looks at an opponent's hand, then steal one card.",
+    "image": "",
+    "count": 5
+  },
+  {
+    "name": "Surf's Up",
+    "effectId" : 1,
+    "description": "The player moves one space forward, then moves an opponent of their choice one space backward.",
+    "image": "",
+    "count": 5
+  },
+  {
+    "name": "Lost",
+    "effectId" : 1,
+    "description": "The player selects one of their opponents' cards at random to be discarded.",
+    "image": "",
+    "count": 5
+  },
+  {
+    "name": "Freestyle Sprint",
+    "effectId" : 1,
+    "description": "The player advances one space forward for free.",
+    "image": "",
+    "count": 4
+  },
+  {
+    "name": "Dive",
+    "effectId" : 1,
+    "description": "The player may use this card to block the effects of another Game card being played against them. Other players may still be affected. This card can only block Game cards - Ocean cards cannot be blocked.",
+    "image": "",
+    "count": 4
+  },
+  {
+    "name": "Rogue Wave",
+    "effectId" : 1,
+    "description": "Wipeout! The player moves another player backward one space.",
+    "image": "",
+    "count": 4
+  },
+  {
+    "name": "Message in a Bottle",
+    "effectId" : 1,
+    "description": "The player steals two Rations from another player.",
+    "image": "",
+    "count": 3
+  }
+]
